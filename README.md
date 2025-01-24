@@ -1,1 +1,1 @@
-# S6-MiniProject
+# Transfer learning based Dementia prediction model
